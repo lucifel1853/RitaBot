@@ -498,7 +498,7 @@ module.exports = {
    "🇭🇰": {
       code: "hk",
       name: "Hong Kong",
-      langs: ["zh-tw", "en"]
+      langs: ["zh-hk", "en"]
    },
    "🇭🇺": {
       code: "hu",
