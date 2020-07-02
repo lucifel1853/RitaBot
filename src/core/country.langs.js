@@ -1075,11 +1075,6 @@ module.exports = {
       name: "Syrian Arab Republic",
       langs: ["ar"]
    },
-   "🇹🇼": {
-      code: "tw",
-      name: "Taiwan",
-      langs: ["zh-tw"]
-   },
    "🇹🇯": {
       code: "tj",
       name: "Tajikistan",
